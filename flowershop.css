@@ -15,6 +15,9 @@ font-family: sans-serif;
 margin: auto;
 }
 
+.image {
+    width: 100%
+}
 .lcol {
 
 background-color: aquamarine;
