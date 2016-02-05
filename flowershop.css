@@ -15,8 +15,13 @@ font-family: sans-serif;
 margin: auto;
 }
 
+.test {width: 100%;}
+
+
 .image {
-    width: 100%
+    width: 100%;
+    background-image:url('flower_image.jpg');
+    background-repeat: no-repeat;
 }
 .lcol {
 
